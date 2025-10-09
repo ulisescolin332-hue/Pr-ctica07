@@ -28,17 +28,17 @@ int main()
         {
             if (tres > uno)
             {
- printf("%d es mayor a %d que es mayor a %d\n", dos, tres, uno);
- }
- else
- {
- printf("%d es mayor a %d que es mayor a %d\n", dos, uno, tres);
- }
- }
- else
- {
- printf("%d es mayor a %d que es mayor a %d\n", tres, dos, uno);
- }
- }
- return 0;
+                printf("%d es mayor a %d que es mayor a %d\n", dos, tres, uno);
+            }
+            else
+            {
+                printf("%d es mayor a %d que es mayor a %d\n", dos, uno, tres);
+            }
+        }
+        else
+        {
+            printf("%d es mayor a %d que es mayor a %d\n", tres, dos, uno);
+        }
+    }
+    return 0;
 }
