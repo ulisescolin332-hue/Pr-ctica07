@@ -1,3 +1,6 @@
+/* Francisco Colín Ulises 
+Práctica 7, Programa 1*/
+
 #include<stdio.h>
 int main ()
 {
